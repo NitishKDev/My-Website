@@ -1,0 +1,10 @@
+body{
+    font-family: monospace;
+}
+#first{
+    background-color: aqua;
+    margin-bottom: 23px;
+}
+#second{
+    background-color: blanchedalmond;
+}

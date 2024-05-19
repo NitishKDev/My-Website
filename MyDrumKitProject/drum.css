@@ -1,0 +1,18 @@
+h1{
+    font-size: 4rem;
+}
+button{
+    padding: 5px;
+    margin: 4px;
+    width: 111px;
+    height: 111px;
+    font-size: 2rem;
+}
+button:hover{
+    cursor: pointer;
+}
+.pressed
+{
+    background-color: black;
+    color: white;
+}

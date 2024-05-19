@@ -1,0 +1,22 @@
+#blu{
+    color: blue;
+}
+#gre{
+    color: green;
+}
+#org{
+    color: orange;
+}
+#red{
+    color: red;
+}
+#yel{
+    color: yellow;
+}
+.alig{
+    font-weight: lighter;
+}
+.siz{
+    height: 200px;
+    width: 200px;
+}

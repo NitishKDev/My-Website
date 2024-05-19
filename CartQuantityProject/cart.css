@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+.btn{
+    display: block;
+    margin: 22px;
+    width: 153px;
+    height: 54px;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: aquamarine;
+    padding: 4px;
+    border: 3px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+font-size: 1.3em;
+width: 175px;
+height: 65px;
+background-color: black;
+color: white; 
+}
+.para{
+    position:absolute;
+    font-size: larger;
+    left: 223px;
+    font-weight:bolder;
+}
+#p1{
+    top:79px;
+}
+#p2{
+    top:149px;
+}
+#p3{
+    top:229px;
+}
+#p4{
+    top:309px;
+}
+#p5{
+    top:384px;
+}

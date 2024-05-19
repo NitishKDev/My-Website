@@ -1,0 +1,33 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#joke{
+    width: 50%;
+    height: 33px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    font-size: 1.5em;
+}
+button{
+    position: absolute;
+    height: 34px;
+    width: 174px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: bisque;
+    color: rgb(52, 0, 209);
+    border-radius: 10px;
+    left: 600px;
+    top: 340px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 13px 12px 3px rgba(22,33,44,0.5);
+}

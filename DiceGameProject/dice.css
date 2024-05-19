@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(121, 191, 119);
+}
+h1{
+    position: relative;
+    left: 310px;
+    font-size: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+.gridContainer{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(47, 46, 46);
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.grid1{
+    position: absolute;
+    left: 282px;
+    top:300px;
+}
+.grid2{
+    position: absolute;
+    left: 592px;
+    top:300px;
+}
+.gridItem{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    place-self: center;
+}
+#p1{
+    position:absolute;
+    font-size: 2em;
+    left: 332px;
+    top:200px;
+}
+#p2{
+    position: absolute;
+    font-size: 2em;
+    left: 642px;
+    top:200px;
+}
+footer{
+    position: relative;
+    top: 364px;
+    left: 480px;
+}
+button{
+    position: relative;
+    top: 220px;
+    left: 915px;
+    border: 3px solid black;
+    padding: 7px;
+}
+button:hover{
+    cursor: pointer;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+}
